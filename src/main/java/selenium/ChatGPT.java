@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class ChatGPT {
+package selenium;
+
+public class ChatGPT {
 }

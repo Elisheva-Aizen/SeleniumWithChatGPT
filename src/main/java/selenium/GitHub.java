@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class GitHub {
+package selenium;
+
+public class GitHub {
 }

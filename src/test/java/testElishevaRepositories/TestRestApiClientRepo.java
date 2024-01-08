@@ -1,2 +1,4 @@
-package TestElishevaRepositories;public class TestRestApiClientRepo {
+package testElishevaRepositories;
+
+public class TestRestApiClientRepo {
 }
